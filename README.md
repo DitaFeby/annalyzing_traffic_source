@@ -1,1 +1,1 @@
-# Advanced SQL Udemy Course: MySQL Data Analysisi & Business Intelligence
+# Advanced SQL Udemy Course: MySQL Data Analysis & Business Intelligence
